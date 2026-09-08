@@ -1,0 +1,11 @@
+report_id,p_id,r_id,test_type,result
+1,1,101,Blood Test,Normal
+2,2,102,X-Ray,Abnormal
+3,3,103,MRI Scan,Pending
+4,4,104,CT Scan,Normal
+5,5,105,Urine Test,Requires Review
+6,6,106,ECG,Normal
+7,7,107,Blood Test,Abnormal
+8,8,108,X-Ray,Pending
+9,9,109,MRI Scan,Normal
+10,10,110,CT Scan,Requires Review

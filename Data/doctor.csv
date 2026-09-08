@@ -1,0 +1,7 @@
+doctor_id,name,qualification,department,r_id
+1,Anil Sharma,"MBBS, MD",Cardiology,101
+2,Priya Verma,"MBBS, MS",Orthopedics,102
+3,Ravi Kapoor,"MBBS, DM",Pediatrics,103
+4,Sneha Iyer,"MBBS, MD",General Medicine,104
+5,Vikram Nair,"MBBS, MCh",Neurology,105
+6,Meera Joshi,"MBBS, DNB",Dermatology,106

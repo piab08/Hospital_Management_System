@@ -1,0 +1,11 @@
+r_id,availability,capacity,type
+101,Available,4,General
+102,Occupied,1,Private
+103,Available,1,ICU
+104,Available,2,Semi-Private
+105,Occupied,1,Operation Theatre
+106,Available,2,General
+107,Available,1,Private
+108,Available,1,ICU
+109,Occupied,4,Semi-Private
+110,Available,1,Operation Theatre
