@@ -38,7 +38,7 @@
 
 | Attribute | Data Type | Key |
 |---|---|---|
-| — | — | — |
+| Receptionist Id | NUMBER | Primary Key |
 
 ---
 
