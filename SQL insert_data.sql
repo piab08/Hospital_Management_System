@@ -1,5 +1,4 @@
 -- Hospital Management System: Sample Data Inserts
--- Matches Schema/schema.sql exactly. Order respects FK dependencies.
 
 -- Rooms
 INSERT INTO Rooms (r_id, availability, capacity, type) VALUES (101, 'Available', 4, 'General');
