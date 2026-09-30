@@ -23,11 +23,10 @@ CREATE TABLE Rooms (
 
 -- 3. DOCTOR
 CREATE TABLE Doctor (
-    doctor_id NUMBER PRIMARY KEY,
     name VARCHAR2(100) NOT NULL,
     qualification VARCHAR2(100),
     department VARCHAR2(100),
-    r_id NUMBER,
+    r_id NUMBER PRIMARY KEY,
 
     CONSTRAINT fk_doctor_room
         FOREIGN KEY (r_id)
